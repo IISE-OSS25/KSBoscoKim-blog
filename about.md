@@ -1,12 +1,15 @@
 ---
 layout: page
-title: About
+title: About Ki-Sun Kim
 permalink: /about/
 ---
 
-Some information about you!
+## Education
+Industrial Information Systems Engineering, Seoul National University of Science and Technology
+
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+E-mail: kskim0109@gmail.com
+
 
